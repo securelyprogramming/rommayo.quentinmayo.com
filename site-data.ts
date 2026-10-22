@@ -3,14 +3,14 @@ export const site = {
   "kind": "romm",
   "url": "https://rommayo.quentinmayo.com",
   "tagline": "Your library. Less distance.",
-  "description": "Your self-hosted RomM collection, made comfortable on Android, desktop and Steam Deck. Connect your server. Pick up where you left off.",
+  "description": "Browse your RomM library with native Android menus, controller support and Electron desktop apps. Free, open-source companion for your own server.",
   "repository": "https://github.com/securelyprogramming/rommayo.quentinmayo.com",
   "primaryUrl": "https://github.com/quentinmayo/Rommayo/releases",
   "primaryLabel": "Download Rommayo",
   "secondaryUrl": "https://github.com/quentinmayo/Rommayo",
   "secondaryLabel": "Explore the app",
   "status": "PUBLIC ALPHA · AVAILABLE NOW",
-  "eyebrow": "YOUR SERVER. YOUR COLLECTION.",
+  "eyebrow": "ROMM COMPANION · ANDROID, DESKTOP & STEAM DECK",
   "headline": [
     "Your library.",
     "Less distance."
@@ -91,5 +91,7 @@ export const site = {
   ],
   "closing": "Your collection is already waiting.",
   "sisterName": "Emulatormayo",
-  "sisterUrl": "https://emulatormayo.quentinmayo.com"
+  "sisterUrl": "https://emulatormayo.quentinmayo.com",
+  "seoTitle": "Rommayo | RomM for Android, Desktop & Steam Deck",
+  "supportUrl": "https://buymeacoffee.com/quentinmayo"
 };
