@@ -39,6 +39,10 @@ I need help affording my AI token usage :) If this project makes your setup a li
 
 ## Search & sharing
 
-The public site includes descriptive page titles, canonical URLs, indexable HTML, PNG social cards, WebSite/Person JSON-LD, a linked [setup guide](https://rommayo.quentinmayo.com/getting-started), `robots.txt` and a two-page sitemap. Each page has its own canonical URL and social metadata. Keep titles, descriptions and sitemap entries in sync when adding pages; regenerate `public/og.png` from `public/og.svg` if the social artwork changes.
+The public site includes descriptive page titles, canonical URLs, indexable HTML, PNG social cards, WebSite/Person JSON-LD, a linked [setup guide](https://rommayo.quentinmayo.com/getting-started), `robots.txt` and a three-page sitemap. Each page has its own canonical URL and social metadata. Keep titles, descriptions and sitemap entries in sync when adding pages; regenerate `public/og.png` from `public/og.svg` if the social artwork changes.
 
 For indexing diagnostics, verify the production domain in Google Search Console or Bing Webmaster Tools, submit `/sitemap.xml`, and inspect the home and guide URLs. These tools require the site owner's account; publishing metadata does not register the site or guarantee a ranking.
+
+Follow the [illustrated Steam Deck guide](https://rommayo.quentinmayo.com/steam-deck) for screenshots, controls and troubleshooting.
+
+![Installed launchers in Steam](public/screenshots/steam-deck-add-to-steam.png)
