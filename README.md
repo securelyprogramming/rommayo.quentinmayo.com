@@ -10,7 +10,20 @@ The companion app lives at **[quentinmayo/Rommayo](https://github.com/quentinmay
 
 ## Install the app
 
-Visit the [download section](https://rommayo.quentinmayo.com/#downloads) for Android, macOS Apple Silicon/Intel, Windows and Linux/Steam Deck installers. No Node.js or npm commands are needed to use the app. Packages and checksums live in [Rommayo Releases](https://github.com/quentinmayo/Rommayo/releases/tag/v0.2.4).
+Visit the [download section](https://rommayo.quentinmayo.com/#downloads) for Android, macOS Apple Silicon/Intel, Windows and Linux/Steam Deck installers. No Node.js or npm commands are needed to use the app. Packages and checksums live in [Rommayo Releases](https://github.com/quentinmayo/Rommayo/releases/tag/v0.2.6).
+
+## Tested devices
+
+Physical hardware checks recorded October 22, 2026. These are specific smoke tests, not certification of every game, core or controller. CI builds for Windows and Intel Mac do not count as physical device tests. No device serials or private server details are published.
+
+| Device | Environment | Verified | Still to check |
+| --- | --- | --- | --- |
+| Samsung Galaxy S24 Ultra | Android 17 | Signed APK; native library; remembered login after force-stop. | Physical external-controller gameplay not verified. |
+| Retroid Pocket 5 | Android 13 | Signed APK; landscape native library; remembered login after force-stop; built-in controller detected; owner confirmed physical stick, D-pad, A/B/X/Y and shoulder navigation. | Gameplay bindings still require per-core checks. |
+| Steam Deck | SteamOS, docked 1920 × 1080 | AppImage installation; Desktop Mode login/library and C64 core boot; Gaming Mode launch. | Physical gameplay controls not yet verified. |
+| MacBook Pro (Apple M4 Pro) | macOS, Apple Silicon | Electron launch, session and download regression tests. | Other emulator cores and systems are not certified. |
+
+[Setup and current device notes](https://rommayo.quentinmayo.com/getting-started#tested-devices).
 
 ## Develop this website locally
 
