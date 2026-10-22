@@ -94,35 +94,35 @@ export const site = {
   "sisterUrl": "https://emulatormayo.quentinmayo.com",
   "seoTitle": "Rommayo | RomM for Android, Desktop & Steam Deck",
   "supportUrl": "https://buymeacoffee.com/quentinmayo",
-  "releaseUrl": "https://github.com/quentinmayo/Rommayo/releases/tag/v0.2.6",
-  "downloadVersion": "v0.2.6 · Public alpha",
+  "releaseUrl": "https://github.com/quentinmayo/Rommayo/releases/tag/v0.2.7",
+  "downloadVersion": "v0.2.7 · Public alpha",
   "downloadIntro": "Install the app, connect your RomM server and press play. No Node.js, npm or development server required.",
   "downloads": [
     {
       "label": "Android",
       "detail": "Android 10+ · signed APK",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.6/Rommayo-v0.2.6-android.apk"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.7/Rommayo-v0.2.7-android.apk"
     },
     {
       "label": "macOS · Apple Silicon",
       "detail": "M-series Macs · DMG",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.6/Rommayo-0.2.6-mac-arm64.dmg"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.7/Rommayo-0.2.7-mac-arm64.dmg"
     },
     {
       "label": "macOS · Intel",
       "detail": "Intel Macs · DMG",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.6/Rommayo-0.2.6-mac-x64.dmg"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.7/Rommayo-0.2.7-mac-x64.dmg"
     },
     {
       "label": "Windows",
       "detail": "x64 · installer",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.6/Rommayo-0.2.6-win-x64.exe"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.7/Rommayo-0.2.7-win-x64.exe"
     },
     {
       "label": "Linux / Steam Deck",
       "detail": "x64 · AppImage",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.6/Rommayo-0.2.6-linux-x86_64.AppImage"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.7/Rommayo-0.2.7-linux-x86_64.AppImage"
     }
   ],
-  "checksumsUrl": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.6/SHA256SUMS.txt"
+  "checksumsUrl": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.7/SHA256SUMS.txt"
 };
