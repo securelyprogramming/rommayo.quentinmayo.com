@@ -8,14 +8,15 @@ on:
     - cron: '11 4 * * 3'
   workflow_dispatch:
 permissions:
-  actions: write
   contents: read
-  security-events: write
 concurrency:
   group: security-${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 jobs:
   security:
+    permissions:
+      actions: write
+      contents: read
     if: ${{ github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository }}
     uses: securelyprogramming/security-workflows/.github/workflows/security-baseline.yml@392e3b93a2fe1a935feafcb66e53a9c3cbd1edda
     with:
