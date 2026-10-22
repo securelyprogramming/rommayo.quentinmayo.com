@@ -5,7 +5,7 @@ export const site = {
   "tagline": "Your library. Less distance.",
   "description": "Browse your RomM library with native Android menus, controller support and Electron desktop apps. Free, open-source companion for your own server.",
   "repository": "https://github.com/securelyprogramming/rommayo.quentinmayo.com",
-  "primaryUrl": "https://github.com/quentinmayo/Rommayo/releases",
+  "primaryUrl": "/#downloads",
   "primaryLabel": "Download Rommayo",
   "secondaryUrl": "https://github.com/quentinmayo/Rommayo",
   "secondaryLabel": "Explore the app",
@@ -93,5 +93,36 @@ export const site = {
   "sisterName": "Emulatormayo",
   "sisterUrl": "https://emulatormayo.quentinmayo.com",
   "seoTitle": "Rommayo | RomM for Android, Desktop & Steam Deck",
-  "supportUrl": "https://buymeacoffee.com/quentinmayo"
+  "supportUrl": "https://buymeacoffee.com/quentinmayo",
+  "releaseUrl": "https://github.com/quentinmayo/Rommayo/releases/tag/v0.2.1",
+  "downloadVersion": "v0.2.1 · Public alpha",
+  "downloadIntro": "Install the app, connect your RomM server and press play. No Node.js, npm or development server required.",
+  "downloads": [
+    {
+      "label": "Android",
+      "detail": "Android 10+ · signed APK",
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.1/Rommayo-v0.2.1-android.apk"
+    },
+    {
+      "label": "macOS · Apple Silicon",
+      "detail": "M-series Macs · DMG",
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.1/Rommayo-0.2.1-mac-arm64.dmg"
+    },
+    {
+      "label": "macOS · Intel",
+      "detail": "Intel Macs · DMG",
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.1/Rommayo-0.2.1-mac-x64.dmg"
+    },
+    {
+      "label": "Windows",
+      "detail": "x64 · installer",
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.1/Rommayo-0.2.1-win-x64.exe"
+    },
+    {
+      "label": "Linux / Steam Deck",
+      "detail": "x64 · AppImage",
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.1/Rommayo-0.2.1-linux-x86_64.AppImage"
+    }
+  ],
+  "checksumsUrl": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.1/SHA256SUMS.txt"
 };
