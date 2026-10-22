@@ -30,7 +30,7 @@ export const site = {
     },
     {
       "title": "A familiar save point.",
-      "body": "Sign in with your server address and RomM account. Session cookies stay on your device; the app does not save your password."
+      "body": "Sign in with your server address and RomM account. Choose Remember login to keep your session between app restarts. Log out from Settings on Android or the desktop toolbar. Local game saves are preserved; passwords are never saved."
     },
     {
       "title": "Meet your next screen.",
@@ -94,35 +94,35 @@ export const site = {
   "sisterUrl": "https://emulatormayo.quentinmayo.com",
   "seoTitle": "Rommayo | RomM for Android, Desktop & Steam Deck",
   "supportUrl": "https://buymeacoffee.com/quentinmayo",
-  "releaseUrl": "https://github.com/quentinmayo/Rommayo/releases/tag/v0.2.2",
-  "downloadVersion": "v0.2.2 · Public alpha",
+  "releaseUrl": "https://github.com/quentinmayo/Rommayo/releases/tag/v0.2.4",
+  "downloadVersion": "v0.2.4 · Public alpha",
   "downloadIntro": "Install the app, connect your RomM server and press play. No Node.js, npm or development server required.",
   "downloads": [
     {
       "label": "Android",
       "detail": "Android 10+ · signed APK",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.2/Rommayo-v0.2.2-android.apk"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.4/Rommayo-v0.2.4-android.apk"
     },
     {
       "label": "macOS · Apple Silicon",
       "detail": "M-series Macs · DMG",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.2/Rommayo-0.2.2-mac-arm64.dmg"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.4/Rommayo-0.2.4-mac-arm64.dmg"
     },
     {
       "label": "macOS · Intel",
       "detail": "Intel Macs · DMG",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.2/Rommayo-0.2.2-mac-x64.dmg"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.4/Rommayo-0.2.4-mac-x64.dmg"
     },
     {
       "label": "Windows",
       "detail": "x64 · installer",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.2/Rommayo-0.2.2-win-x64.exe"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.4/Rommayo-0.2.4-win-x64.exe"
     },
     {
       "label": "Linux / Steam Deck",
       "detail": "x64 · AppImage",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.2/Rommayo-0.2.2-linux-x86_64.AppImage"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.4/Rommayo-0.2.4-linux-x86_64.AppImage"
     }
   ],
-  "checksumsUrl": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.2/SHA256SUMS.txt"
+  "checksumsUrl": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.4/SHA256SUMS.txt"
 };
