@@ -66,7 +66,7 @@ export const site = {
   "installEyebrow": "ANDROID / WINDOWS / MACOS / LINUX",
   "installTitle": "Your next save point is ready.",
   "installBody": "Public alpha downloads, checksums and release notes live together on GitHub.",
-  "compatibility": "Steam Deck runs the Linux AppImage as a non-Steam app. Physical Deck testing is pending. Desktop packages are unsigned; emulator compatibility depends on your server, browser engine and device. Controller navigation has been checked using injected Android button events; physical retro handheld and Xbox controller testing is pending.",
+  "compatibility": "Steam Deck runs the Linux AppImage as a non-Steam app. Physical Deck testing is pending. Mac apps are ad-hoc signed and not notarized; Windows installers are unsigned; emulator compatibility depends on your server, browser engine and device. Controller navigation has been checked using injected Android button events; physical retro handheld and Xbox controller testing is pending.",
   "faq": [
     {
       "question": "Do I need a Rommayo account?",
@@ -94,35 +94,35 @@ export const site = {
   "sisterUrl": "https://emulatormayo.quentinmayo.com",
   "seoTitle": "Rommayo | RomM for Android, Desktop & Steam Deck",
   "supportUrl": "https://buymeacoffee.com/quentinmayo",
-  "releaseUrl": "https://github.com/quentinmayo/Rommayo/releases/tag/v0.2.1",
-  "downloadVersion": "v0.2.1 · Public alpha",
+  "releaseUrl": "https://github.com/quentinmayo/Rommayo/releases/tag/v0.2.2",
+  "downloadVersion": "v0.2.2 · Public alpha",
   "downloadIntro": "Install the app, connect your RomM server and press play. No Node.js, npm or development server required.",
   "downloads": [
     {
       "label": "Android",
       "detail": "Android 10+ · signed APK",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.1/Rommayo-v0.2.1-android.apk"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.2/Rommayo-v0.2.2-android.apk"
     },
     {
       "label": "macOS · Apple Silicon",
       "detail": "M-series Macs · DMG",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.1/Rommayo-0.2.1-mac-arm64.dmg"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.2/Rommayo-0.2.2-mac-arm64.dmg"
     },
     {
       "label": "macOS · Intel",
       "detail": "Intel Macs · DMG",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.1/Rommayo-0.2.1-mac-x64.dmg"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.2/Rommayo-0.2.2-mac-x64.dmg"
     },
     {
       "label": "Windows",
       "detail": "x64 · installer",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.1/Rommayo-0.2.1-win-x64.exe"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.2/Rommayo-0.2.2-win-x64.exe"
     },
     {
       "label": "Linux / Steam Deck",
       "detail": "x64 · AppImage",
-      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.1/Rommayo-0.2.1-linux-x86_64.AppImage"
+      "file": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.2/Rommayo-0.2.2-linux-x86_64.AppImage"
     }
   ],
-  "checksumsUrl": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.1/SHA256SUMS.txt"
+  "checksumsUrl": "https://github.com/quentinmayo/Rommayo/releases/download/v0.2.2/SHA256SUMS.txt"
 };
