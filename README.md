@@ -10,7 +10,7 @@ The companion app lives at **[quentinmayo/Rommayo](https://github.com/quentinmay
 
 ## Install the app
 
-Visit the [download section](https://rommayo.quentinmayo.com/#downloads) for Android, macOS Apple Silicon/Intel, Windows and Linux/Steam Deck installers. No Node.js or npm commands are needed to use the app. Packages and checksums live in [Rommayo Releases](https://github.com/quentinmayo/Rommayo/releases/tag/v0.2.8).
+Visit the [download section](https://rommayo.quentinmayo.com/#downloads) for Android, macOS Apple Silicon/Intel, Windows and Linux/Steam Deck installers. No Node.js or npm commands are needed to use the app. Packages and checksums live in [Rommayo Releases](https://github.com/quentinmayo/Rommayo/releases/tag/v0.2.9).
 
 ## Tested devices
 
