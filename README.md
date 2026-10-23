@@ -10,7 +10,7 @@ The companion app lives at **[quentinmayo/Rommayo](https://github.com/quentinmay
 
 ## Install the app
 
-Visit the [download section](https://rommayo.quentinmayo.com/#downloads) for Android, macOS Apple Silicon/Intel, Windows and Linux/Steam Deck installers. No Node.js or npm commands are needed to use the app. Packages and checksums live in [Rommayo Releases](https://github.com/quentinmayo/Rommayo/releases/tag/v0.2.7).
+Visit the [download section](https://rommayo.quentinmayo.com/#downloads) for Android, macOS Apple Silicon/Intel, Windows and Linux/Steam Deck installers. No Node.js or npm commands are needed to use the app. Packages and checksums live in [Rommayo Releases](https://github.com/quentinmayo/Rommayo/releases/tag/v0.2.8).
 
 ## Tested devices
 
@@ -19,7 +19,7 @@ Physical hardware checks recorded October 22, 2026. These are specific smoke tes
 | Device | Environment | Verified | Still to check |
 | --- | --- | --- | --- |
 | Samsung Galaxy S24 Ultra | Android 17 | Signed APK; native library; remembered login after force-stop. | Physical external-controller gameplay not verified. |
-| Retroid Pocket 5 | Android 13 | Signed APK; landscape native library; remembered login after force-stop; built-in controller detected; owner confirmed physical stick, D-pad, A/B/X/Y and shoulder navigation. | Gameplay bindings still require per-core checks. |
+| Retroid Pocket 5 | Android 13 | Signed APK; landscape native library; remembered login after force-stop; owner confirmed native D-pad navigation and Recent platform filter opening, D-pad movement, fresh A selection and B cancellation. | Physical left-stick menu and gameplay bindings require further checks. |
 | Steam Deck | SteamOS, docked 1920 × 1080 | AppImage installation; automatic session restore; Desktop Mode C64 boot; toolbar pause/resume; Quit; Steam artwork; Gaming Mode launch. | Physical gameplay controls not yet verified. |
 | MacBook Pro (Apple M4 Pro) | macOS, Apple Silicon | Electron launch, session and download regression tests. | Other emulator cores and systems are not certified. |
 
